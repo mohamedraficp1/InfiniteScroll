@@ -1,0 +1,33 @@
+.outer-conatiner {
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    max-width: 650px;
+    margin: 10px auto ;
+    padding: 20px;
+  }
+
+  .outer-conatiner h3 {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    margin-left: 12px;
+    margin-bottom: 0px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 300px;
+  }
+
+  .outer-conatiner h6 {
+    margin: 7px 12px 0;
+    font-size: 14px;
+  }
+
+  .outer-conatiner img {
+    border-radius: 25px;
+    width: 50%;
+  }
